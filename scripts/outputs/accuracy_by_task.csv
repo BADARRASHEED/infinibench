@@ -1,0 +1,5 @@
+task_type,total_questions,evaluated_questions,correct_answers,accuracy
+clutter_judgment,50,49,47,0.9592
+counting,50,50,50,1.0
+object_presence,50,50,50,1.0
+occlusion_judgment,50,50,50,1.0
