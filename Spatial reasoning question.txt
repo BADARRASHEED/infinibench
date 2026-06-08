@@ -1,0 +1,4 @@
+How many chairs are visible?
+Is there a table visible?
+Is the scene cluttered?
+Are any objects partially occluded?

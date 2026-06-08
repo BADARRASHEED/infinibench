@@ -32,7 +32,8 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Stream InfiniBench samples from HuggingFace and save PNG images."
     )
-    parser.add_argument("--num-samples", type=int, default=100)
+    parser.add_argument("--num-samples", type=int, default=50
+    )
     parser.add_argument("--output-dir", type=Path, default=Path("data/samples"))
     parser.add_argument(
         "--metadata-csv",
