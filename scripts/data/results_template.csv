@@ -41,7 +41,7 @@ sample_00010_clutter_judgment,data/samples/sample_00010.png,scene_b1,clutter_jud
 sample_00010_occlusion_judgment,data/samples/sample_00010.png,scene_b1,occlusion_judgment,Are any objects partially occluded?,1,1,1
 sample_00011_counting,data/samples/sample_00011.png,scene_b1,counting,How many chairs are visible in the image?,0,0,1
 sample_00011_object_presence,data/samples/sample_00011.png,scene_b1,object_presence,Is there a table visible in the image?,0,0,1
-sample_00011_clutter_judgment,data/samples/sample_00011.png,scene_b1,clutter_judgment,Is the scene cluttered?,0,0,
+sample_00011_clutter_judgment,data/samples/sample_00011.png,scene_b1,clutter_judgment,Is the scene cluttered?,0,0,1
 sample_00011_occlusion_judgment,data/samples/sample_00011.png,scene_b1,occlusion_judgment,Are any objects partially occluded?,1,1,1
 sample_00012_counting,data/samples/sample_00012.png,scene_b1,counting,How many chairs are visible in the image?,0,0,1
 sample_00012_object_presence,data/samples/sample_00012.png,scene_b1,object_presence,Is there a table visible in the image?,1,1,1
