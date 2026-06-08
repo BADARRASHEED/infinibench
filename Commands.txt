@@ -1,0 +1,11 @@
+python 01_load_samples.py --num-samples 50
+
+python 02_create_question_template.py 
+
+
+
+Only run the commands below:
+
+python 03_evaluate_results.py --results-csv data\results_template.csv 
+
+python 04_plot_results.py --input-csv outputs\accuracy_by_task.csv 
