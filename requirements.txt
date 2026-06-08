@@ -3,3 +3,5 @@ pillow
 pandas
 matplotlib
 tqdm
+ipython
+ipykernel
