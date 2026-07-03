@@ -326,6 +326,6 @@ python scripts/03_evaluate_results.py --results-csv data/results_template.csv
 
 ## Notes
 
-This project intentionally keeps the workflow simple for students. It uses the pre-generated HuggingFace dataset instead of generating new 3D scenes.
+This project intentionally keeps the workflow simple. It uses the pre-generated HuggingFace dataset instead of generating new 3D scenes.
 
 You only download packages when you run `pip install -r requirements.txt`, and you only stream dataset samples when you run `scripts/01_load_samples.py`.
